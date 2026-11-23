@@ -1,0 +1,12 @@
+# Windows / macOS
+Thumbs.db
+.DS_Store
+
+# Power BI / temporary files
+*.tmp
+*.temp
+~$*
+
+# Editor files
+.vscode/
+.idea/
